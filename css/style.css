@@ -1,0 +1,111 @@
+body {
+  background-color: #46494C;
+  background-image: url("https://i.imgur.com/MBAUEVr.png");
+  margin-top: 55px;
+}
+
+.nav-link {
+  text-transform: uppercase;
+  margin-right: 50px;
+}
+
+.navbar-brand {
+  margin-left: 50px;
+}
+
+.navbar {
+  border-bottom: 1px solid black;
+}
+
+.container {
+  padding-top: 30px;
+}
+
+#part1 {
+  background-color: white;
+}
+
+#name {
+  font-size: 40px;
+  text-align: center;
+}
+
+.center-avatar {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#avatar {
+  width: 25%;
+  height: 25%;
+  border-radius: 50%;
+  border: solid black 1px;
+  margin-bottom: 20px;
+}
+
+.jumbotron-text {
+  padding-left: 200px;
+  padding-right: 200px;
+  font-size: 18px;
+}
+
+#social p {
+  font-size: 20px;
+}
+
+#social {
+  margin-top: 35px;
+}
+
+#social p {
+  padding-top: 25px;
+  padding-left: 200px;
+  padding-right: 200px;
+}
+
+.jumbotron {
+  border-radius: 0px 0px 15px 15px;
+}
+
+#social .btn {
+  margin-right: 20px;
+}
+
+#social .btn:hover {
+  transform: scale(1.1);
+}
+
+#part2 {
+  background-color: white;
+  margin-top: 50px;
+  border-radius: 15px 15px 15px 15px;
+}
+
+.project-image {
+  width: 300px;
+  height: 200px;
+  margin: auto;
+  margin-top: 25px;
+}
+
+.project-image:hover {
+  transform: scale(1.1);
+  z-index: 10;
+}
+
+#part3 {
+  background-color: white;
+  margin-top: 50px;
+  border-radius: 15px 15px 15px 15px;
+}
+
+.form-control {
+  margin-top: 10px;
+}
+
+form {
+  width: 600px;
+  padding-top: 20px;
+}
+
